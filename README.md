@@ -9,9 +9,4 @@ I build **mission-critical, high-performance interfaces** for military and tacti
 - **Scripting & Backend:** Python
 - **Architecture:** Building scalable, secure, and highly responsive applications
 
-### 🎯 What I Do
-- Translate complex tactical and operational requirements into clean UI.
-- Develop software solutions that assist in military management and coordination.
-- Prioritize performance and reliability in resource-constrained environments.
-
 > "Building the digital infrastructure for modern defense."
