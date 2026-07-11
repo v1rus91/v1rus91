@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm a Defense-Tech Front-End Developer 🇺🇦
 
-<!--
-**v1rus91/v1rus91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **mission-critical, high-performance interfaces** for military and tactical projects. In my line of work, software needs to be fast, resilient, and flawlessly intuitive under pressure. I specialize in the modern JavaScript ecosystem with a strong foundation in Python.
 
-Here are some ideas to get you started:
+### ⚡ Tech Arsenal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Core Focus:** Next.js, TypeScript, React
+- **Versatile UI:** Proficient across the entire modern front-end landscape
+- **Scripting & Backend:** Python
+- **Architecture:** Building scalable, secure, and highly responsive applications
+
+### 🎯 What I Do
+- Translate complex tactical and operational requirements into clean UI.
+- Develop software solutions that assist in military management and coordination.
+- Prioritize performance and reliability in resource-constrained environments.
+
+> "Building the digital infrastructure for modern defense."
