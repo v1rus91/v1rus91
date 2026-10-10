@@ -46,6 +46,7 @@ const operator: Engineer = {
 ### `// 03` &nbsp;FIELD EQUIPMENT
 
 <p align="center">
+  <a href="https://github.com/v1rus91/Stezha"><img src="assets/cards/stezha.svg" width="49%" alt="Стежа"></a>
   <a href="https://github.com/v1rus91/Void"><img src="assets/cards/void.svg" width="49%" alt="Void"></a>
   <a href="https://github.com/v1rus91/UniLoader"><img src="assets/cards/uniloader.svg" width="49%" alt="UniLoader"></a>
   <a href="https://github.com/v1rus91/ClipGlass"><img src="assets/cards/clipglass.svg" width="49%" alt="ClipGlass"></a>

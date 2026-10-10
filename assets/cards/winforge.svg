@@ -5,8 +5,8 @@
 <rect x="1" y="1" width="488" height="168" rx="12" fill="url(#g)"/>
 <rect x="24" y="1" width="80" height="3" fill="url(#edge)"/>
 <path d="M8,22 L8,8 L22,8" fill="none" stroke="#ffd500" stroke-width="2"/><path d="M482,22 L482,8 L468,8" fill="none" stroke="#ffd500" stroke-width="2"/><path d="M8,148 L8,162 L22,162" fill="none" stroke="#ffd500" stroke-width="2"/><path d="M482,148 L482,162 L468,162" fill="none" stroke="#ffd500" stroke-width="2"/>
-<text x="24" y="34" font-size="11" fill="#5b6b7d">// UNIT 05</text>
-<text x="466" y="34" font-size="11" fill="#3ef08f" text-anchor="end">● ONLINE<animate attributeName="opacity" values="1;.35;1" dur="2s" begin="1.5s" repeatCount="indefinite"/></text>
+<text x="24" y="34" font-size="11" fill="#5b6b7d">// UNIT 06</text>
+<text x="466" y="34" font-size="11" fill="#3ef08f" text-anchor="end">● ONLINE<animate attributeName="opacity" values="1;.35;1" dur="2s" begin="1.8s" repeatCount="indefinite"/></text>
 <text x="24" y="62" font-size="22" font-weight="700" fill="#fff">WinForge</text>
 <text x="24" y="86" font-size="13" fill="#d6e2ee" opacity=".85">Windows 11 optimizer that knows exactly what it changed:</text><text x="24" y="105" font-size="13" fill="#d6e2ee" opacity=".85">145 declarative tweaks, journaled undo, live state</text><text x="24" y="124" font-size="13" fill="#d6e2ee" opacity=".85">detection.</text>
 <circle cx="29" cy="146" r="5" fill="#2f7cff"/>

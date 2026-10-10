@@ -140,6 +140,7 @@ def header():
 
 
 PROJECTS = [
+    ("Stezha", "Air raid alerts in the MacBook notch: hover to see a live map of Ukraine, raion-level status for your area, stats and notifications.", "Swift", "macOS · Notch · alerts.in.ua"),
     ("Void", "Mac cleaner and live system monitor: smart cleanup, disk analyzer, duplicates, uninstaller, startup items, menu bar.", "Swift", "macOS · SwiftUI · Liquid Glass"),
     ("UniLoader", "Native media downloader: YouTube, Instagram, TikTok and 1000+ sites via yt-dlp, plus Spotify / Apple Music links to tagged audio.", "Swift", "macOS · SwiftUI · yt-dlp"),
     ("ClipGlass", "Smart clipboard manager: card tray, pinboards, type-aware actions, OCR, snippets with placeholders, secret filtering.", "Swift", "macOS · SwiftUI · Liquid Glass"),
