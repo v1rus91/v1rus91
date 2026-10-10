@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+<defs><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/>
+<stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1000" height="70" rx="12"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1000" height="35.0" fill="#2f7cff"/><rect y="35.0" width="1000" height="35.0" fill="#ffd500"/>
+<rect x="-300" width="260" height="70" fill="url(#s)"><animate attributeName="x" values="-300;1040" dur="4s" repeatCount="indefinite"/></rect>
+</g>
+<text x="500.0" y="26.0" text-anchor="middle" font-size="15" font-weight="700" fill="#fff" letter-spacing="4">СЛАВА УКРАЇНІ</text>
+<text x="500.0" y="57.0" text-anchor="middle" font-size="15" font-weight="700" fill="#0b2a5c" letter-spacing="4">ГЕРОЯМ СЛАВА</text>
+</svg>

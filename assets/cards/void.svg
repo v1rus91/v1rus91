@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="170" viewBox="0 0 490 170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+<defs><pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#2f7cff"/><stop offset="1" stop-color="#ffd500"/></linearGradient></defs>
+<rect x="1" y="1" width="488" height="168" rx="12" fill="#070b10" stroke="#1d2a38" stroke-width="1.5"/>
+<rect x="1" y="1" width="488" height="168" rx="12" fill="url(#g)"/>
+<rect x="24" y="1" width="80" height="3" fill="url(#edge)"/>
+<path d="M8,22 L8,8 L22,8" fill="none" stroke="#ffd500" stroke-width="2"/><path d="M482,22 L482,8 L468,8" fill="none" stroke="#ffd500" stroke-width="2"/><path d="M8,148 L8,162 L22,162" fill="none" stroke="#ffd500" stroke-width="2"/><path d="M482,148 L482,162 L468,162" fill="none" stroke="#ffd500" stroke-width="2"/>
+<text x="24" y="34" font-size="11" fill="#5b6b7d">// UNIT 01</text>
+<text x="466" y="34" font-size="11" fill="#3ef08f" text-anchor="end">● ONLINE<animate attributeName="opacity" values="1;.35;1" dur="2s" begin="0.3s" repeatCount="indefinite"/></text>
+<text x="24" y="62" font-size="22" font-weight="700" fill="#fff">Void</text>
+<text x="24" y="86" font-size="13" fill="#d6e2ee" opacity=".85">Mac cleaner and live system monitor: smart cleanup, disk</text><text x="24" y="105" font-size="13" fill="#d6e2ee" opacity=".85">analyzer, duplicates, uninstaller, startup items, menu</text><text x="24" y="124" font-size="13" fill="#d6e2ee" opacity=".85">bar.</text>
+<circle cx="29" cy="146" r="5" fill="#F05138"/>
+<text x="40" y="150" font-size="12" fill="#d6e2ee">Swift</text>
+<text x="466" y="150" font-size="11.5" fill="#5b6b7d" text-anchor="end">macOS · SwiftUI · Liquid Glass</text>
+</svg>
